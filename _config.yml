@@ -25,7 +25,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
+marketing_header: Faster and Faster # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
@@ -34,12 +34,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github:scris
   facebook:
   twitter:
   pinterest:
   instagram:
-  email:
+  email:slaaker@126.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -58,7 +58,7 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: # iphone-se-silver-vertical # REQUIRED
 
 #
 # Theme Settings
@@ -76,7 +76,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: Mixbank Game # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
