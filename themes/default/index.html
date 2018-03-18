@@ -30,11 +30,11 @@
               <i class="fa fa-apple fa-lg" aria-hidden="true"></i> App Store
             </a>
 
-            {% if site.app.android_id %}
+            {% if site.app.android_link %}
             <a
               class="download-btn btn btn-lg"
-              href="https://play.google.com/store/apps/details?id={{ site.app.android_id }}">
-              <i class="fa fa-android fa-lg" aria-hidden="true"></i> Google Play
+              href="{{ site.app.android_link }}">
+              <i class="fa fa-android fa-lg" aria-hidden="true"></i> Android Download
             </a>
             {% endif %}
           </div>
